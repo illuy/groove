@@ -7,7 +7,6 @@ const handleGoogleSignUp = async () => {
     setIsUserLogIn(true);
 
     googleLogInUserEmail = popUpforLogin.user.email;
-    console.log("googleLogInUserEmail", googleLogInUserEmail);
 
     setSignUpModal(false);
     openSocialLogInModal();

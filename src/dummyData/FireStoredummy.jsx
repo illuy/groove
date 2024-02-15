@@ -38,7 +38,6 @@ function FireStoredummy() {
       await uploadBytes(imageRef, selectedfile);
 
       const downloadURL = await getDownloadURL(imageRef);
-      console.log(downloadURL); //올린 파일의 주소로 이동
     };
   };
   return (

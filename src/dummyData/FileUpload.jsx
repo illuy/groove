@@ -17,7 +17,7 @@ const FileUpload = () => {
 
     // 파일 URL 가져오기
     const downloadURL = await getDownloadURL(imageRef);
-    console.log("downloadURL", downloadURL);
+
     setImageUrl(downloadURL);
   };
 

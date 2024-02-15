@@ -79,7 +79,6 @@ function GrooveHeader({
     addDoc(collectionRef, newUser);
     setNicknameModal(false);
     setNickname("");
-    console.log(newUser);
   };
   useEffect(() => {
     const fetchData = async (userEmail) => {
@@ -108,7 +107,6 @@ function GrooveHeader({
     } else {
     }
   }, [user, nickname]);
-  console.log("currentUser", currentUser);
 
   const [scrolled, setScrolled] = useState(false);
   useEffect(() => {
