@@ -286,7 +286,7 @@ const StUserContainer = styled.div`
     text-align: center;
   }
   & > section > img {
-    max-width: 400px;
+    max-width: 400px;ㅛ
   }
 `;
 const EditProfileImage = styled.div`
