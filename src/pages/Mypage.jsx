@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { auth, db, storage } from "../firebase";
-import { collection, query, where, getDocs, getFirestore, doc, updateDoc, setDoc } from "firebase/firestore";
+import { auth, storage } from "../firebase";
+import { collection, query, where, getDocs, getFirestore, doc, updateDoc } from "firebase/firestore";
 import { ref, uploadBytes, getDownloadURL } from "firebase/storage";
 import GrooveHeader from "../components/Groove/GrooveHeader";
 import GrooveFooter from "../components/Groove/GrooveFooter";
