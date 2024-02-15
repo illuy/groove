@@ -227,7 +227,7 @@ function GrooveAuth({
                 <IDPWBox>
                   <input
                     placeholder="PASSWORD"
-                    type="password"
+                    type="current-password"
                     name="password"
                     value={password}
                     onChange={onPasswordChange}
@@ -273,7 +273,7 @@ function GrooveAuth({
                 <IDPWBox>
                   <input
                     placeholder="PASSWORD"
-                    type="password"
+                    type="current-password"
                     name="password"
                     value={password}
                     onChange={onPasswordChange}
