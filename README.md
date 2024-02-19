@@ -10,7 +10,6 @@
 ## 2. 시연 영상 및 정리
 
 - 시연 영상 녹화본 - https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/526f5652-ced7-44a8-b135-d2d32e34fefc/%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B5%E1%84%8C%E1%85%A9(10%E1%84%8C%E1%85%A9)_groove_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4?id=c7a60d7c-c8bc-493a-9514-a5b6279fef80&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1708048800000&signature=LpPO7XdR-xvnRQdsUPAWdW2SeiAnppZbZFSfx1ZxqpM&downloadName=%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B5%E1%84%8C%E1%85%A9%2810%E1%84%8C%E1%85%A9%29_groove_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4
-- 프로젝트 정리 - https://www.notion.so/10-53efa92ebc714f988441e1336c1a50b7
 
 ## 3. 필수 구현 기능
 
